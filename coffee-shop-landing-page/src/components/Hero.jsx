@@ -16,11 +16,11 @@ const Hero = () => {
 
   {/* Imagens */}
   <img 
-    src="/pc-hero.png"
+    src="/pc-hero.webp"
     className="hidden w-full h-auto md:block"
   />
   <img
-    src="/mobile-hero.png"
+    src="/mobile-hero.webp"
     className="block w-full h-auto md:hidden"
   />
 
