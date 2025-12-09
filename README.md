@@ -47,10 +47,10 @@ React Router
 
 ## 📂 Run Locally
 
-git clone https://github.com/your-username/cozy-coffee-landing.git
-cd cozy-coffee-landing
-npm install
-npm run dev
+git clone https://github.com/your-username/cozy-coffee-landing.git |
+cd cozy-coffee-landing |
+npm install |
+npm run dev |
 
 
 ---
