@@ -1,46 +1,35 @@
-☕ Cozy Coffee — Landing Page
+# Cozy Coffee ☕
 
-A modern, responsive, and clean landing page for a fictional coffee shop.
-Designed with a focus on visual simplicity, smooth user experience, and fast performance.
+A clean and responsive landing page for a fictional coffee shop, designed to highlight brand identity with modern visuals and a smooth user experience.
 
-🔗 Live Demo: https://cozy-coffee-landing.vercel.app/
+### 🔗 Live Preview
 
-📸 Preview
+https://cozy-coffee-landing.vercel.app/
 
-You can place your screenshots inside a /screenshots folder and link them here.
 
-💻 Desktop
+---
 
-![Desktop](./screenshots/desktop.png)
+## ✨ Highlights
 
-📱 Mobile
-
-![Mobile](./screenshots/mobile.png)
-
-📟 Tablet
-
-![Tablet](./screenshots/tablet.png)
-
-🎨 About the Project
-
-Cozy Coffee is a clean and elegant landing page designed to highlight the essence of a coffee shop brand.
-The page includes:
-
-A modern hero section with a clear CTA
+Modern hero section with clear CTA
 
 Smooth scroll navigation
 
-Product section
+Product showcase
 
-Image gallery with light animations
+Light motion effects
 
-Full responsiveness across devices
+Responsive layout (mobile, tablet, desktop)
 
-Improved image optimization for better performance
+Optimized images for faster load
 
-🛠 Tech Stack
+Clean typography and spacing
 
-This project was built using:
+
+
+---
+
+## 🛠️ Tech Stack
 
 React
 
@@ -48,25 +37,36 @@ Vite
 
 TailwindCSS
 
-Framer Motion (if used)
+Framer Motion
 
-React Router (if used)
+React Router
 
-⚙️ Running Locally
+
+
+---
+
+## 📂 Run Locally
+
 git clone https://github.com/your-username/cozy-coffee-landing.git
 cd cozy-coffee-landing
 npm install
 npm run dev
 
-🚀 Production Build
+
+---
+
+## 🏗️ Build for Production
+
 npm run build
 
+Output will be created in the /dist folder.
 
-The optimized files will be generated in the dist/ directory.
 
-📱 Responsiveness
+---
 
-This landing page was carefully crafted to work smoothly on:
+## 📱 Responsiveness
+
+Designed and tested for:
 
 Mobile
 
@@ -74,25 +74,5 @@ Tablet
 
 Desktop
 
-Typography, spacing, layout, and image sizes were all adjusted manually for a professional and polished look.
 
-🔧 Notes & Improvements
-
-During development, several refinements were made:
-
-Font adjustments
-
-Hero section redesign
-
-Full responsiveness fixes
-
-Image compression for performance
-
-Dependency setup and configuration
-
-Cleanup of unnecessary files
-
-📄 License
-
-This project is free for personal and educational use.
-
+Each breakpoint uses manual adjustments to maintain layout consistency and visual balance.
