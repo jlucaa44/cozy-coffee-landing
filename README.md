@@ -95,3 +95,4 @@ Cleanup of unnecessary files
 📄 License
 
 This project is free for personal and educational use.
+
